@@ -8,3 +8,4 @@ Analyze:
 3. Average session duration
 
 Skills: GROUP BY, ORDER BY, JOINs, aggregation
+Auther: Shweta Chaudhary
